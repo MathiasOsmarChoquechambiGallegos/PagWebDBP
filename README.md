@@ -5,10 +5,10 @@ La plataforma permite a los usuarios registrarse, explorar lugares turísticos, 
 Tecnologías utilizadas:
 
 Frontend
--React.js – Biblioteca de JavaScript para crear interfaces dinámicas y modulares.
--HTML5 – Estructura principal del contenido web.
--CSS – Diseño visual y adaptación responsive a distintos dispositivos.
--JavaScript – Interactividad y manejo de eventos en el cliente.
+#-React.js – Biblioteca de JavaScript para crear interfaces dinámicas y modulares.
+#-HTML5 – Estructura principal del contenido web.
+#-CSS – Diseño visual y adaptación responsive a distintos dispositivos.
+#-JavaScript – Interactividad y manejo de eventos en el cliente.
 
 Backend
 -PHP – Procesamiento de datos y comunicación con la base de datos.
